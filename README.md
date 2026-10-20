@@ -13,6 +13,7 @@ Each case study follows the same format: **problem → inputs → approach → r
 | # | Topic | Techniques | Status |
 |---|---|---|---|
 | [001](case-studies/001-telemetry-anomaly-detection) | Catching failing equipment early from sensor telemetry | Rolling z-score, Isolation Forest | ✅ |
+| [002](case-studies/002-it-ticket-triage) | Routing IT tickets to the right support queue | Keyword rules, TF-IDF + logistic regression, confidence threshold | ✅ |
 
 ## Run any case study
 
