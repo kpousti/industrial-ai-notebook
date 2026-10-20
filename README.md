@@ -14,6 +14,7 @@ Each case study follows the same format: **problem → inputs → approach → r
 |---|---|---|---|
 | [001](case-studies/001-telemetry-anomaly-detection) | Catching failing equipment early from sensor telemetry | Rolling z-score, Isolation Forest | ✅ |
 | [002](case-studies/002-it-ticket-triage) | Routing IT tickets to the right support queue | Keyword rules, TF-IDF + logistic regression, confidence threshold | ✅ |
+| [003](case-studies/003-asset-deduplication) | Finding duplicate devices across asset inventories | Blocking, similarity features, logistic regression, union-find | ✅ |
 
 ## Run any case study
 
